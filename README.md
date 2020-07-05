@@ -5,6 +5,7 @@
 -Use the following commands to compile the java code.
 
 -javac HITS.java
+
 -javac PageRank.java
 
 
@@ -13,6 +14,7 @@
 -Use the following commands to run the compiled code.
 
 -java HITS        NumberOfIterations   initialValue   InputFileName.txt
+
 -java PageRank    NumberOfIterations   initialValue   InputFileName.txt
 
 
