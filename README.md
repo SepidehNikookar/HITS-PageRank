@@ -13,9 +13,9 @@ Use the following commands to compile the java code.
 
 Use the following commands to run the compiled code.
 
--java HITS        NumberOfIterations   initialValue   InputFileName.txt
+-java HITS    /    NumberOfIterations /  initialValue  / InputFileName.txt
 
--java PageRank    NumberOfIterations   initialValue   InputFileName.txt
+-java PageRank  /  NumberOfIterations /  initialValue /  InputFileName.txt
 
 
 *For initialVAlue, you need to enter -2,-1 or 1 as input. The initial value 0 gives 'NaN' value.
