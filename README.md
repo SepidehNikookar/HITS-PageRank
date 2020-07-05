@@ -2,7 +2,7 @@
 
 #COMPILATION INSTRUCTIONS:
 
--Use the following commands to compile the java code.
+Use the following commands to compile the java code.
 
 -javac HITS.java
 
@@ -11,7 +11,7 @@
 
 #EXECUTION INSTRUCTIONS:
 
--Use the following commands to run the compiled code.
+Use the following commands to run the compiled code.
 
 -java HITS        NumberOfIterations   initialValue   InputFileName.txt
 
