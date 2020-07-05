@@ -11,7 +11,8 @@
 \margl1440\margr1440\vieww28600\viewh18000\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 # HITS-PageRank\
+\f0\fs24 \cf0 \
+# HITS-PageRank\
 \
 
 \f1\b COMPILATION INSTRUCTIONS:
@@ -32,8 +33,8 @@ Use the following commands to compile the java code.\
 Use the following commands to run the compiled code.\
 \
 \pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
-\ls2\ilvl0\cf0 {\listtext	\uc0\u8226 	}java HITS           /   NumberOfIterations  /  initialValue  /  InputFileName.txt\
-{\listtext	\uc0\u8226 	}java PageRank  /  NumberOfIterations  /  initialValue  /  InputFileName.txt\
+\ls2\ilvl0\cf0 {\listtext	\uc0\u8226 	}java HITS            / NumberOfIterations /  initialValue  / InputFileName.txt\
+{\listtext	\uc0\u8226 	}java PageRank  /  NumberOfIterations /  initialValue /  InputFileName.txt\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 \
 \
